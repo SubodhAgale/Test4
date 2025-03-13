@@ -10,7 +10,7 @@ public class Test4Application {
 
 		int a=0;
 		char ch='a';
-
+		char i='b';
 		
 
 		SpringApplication.run(Test4Application.class, args);
