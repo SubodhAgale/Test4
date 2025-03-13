@@ -8,7 +8,11 @@ public class Test4Application {
 
 	public static void main(String[] args) {
 
+		int a=0;
 		char ch='a';
+
+		
+
 		SpringApplication.run(Test4Application.class, args);
 	}
 
