@@ -1,6 +1,10 @@
 Some Login Code
+<<<<<<< Updated upstream
 
 Error Fixed
+=======
+Some Error
+>>>>>>> Stashed changes
 
 Subodh
 Subodh
